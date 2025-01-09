@@ -52,7 +52,7 @@ export default function Home() {
   }, []);
 
   return (
-    <div className={`relative ${data.showCursor && "cursor-none"}`}>
+    <div className= {`relative ${data.showCursor && "cursor-none"} overflow-hidden `}>
       {data.showCursor && <Cursor />}
       <Head>
         <Link href={"/"}>
@@ -72,9 +72,9 @@ export default function Home() {
   <div className="flex justify-center mb-6 laptop:mb-0">
     {/* Profile Picture */}
     <img
-      src="images/pp.jpg" // Update path if necessary
+      src="images/pp.jpg" 
       alt="Profile"
-      className="w-48 h-48 rounded-full object-cover shadow-lg border-4 border-teal-500" // Larger image with border and shadow
+      className="w-48 h-48 rounded-full object-cover shadow-lg border-4 border-teal-500" 
     />
   </div>
 
