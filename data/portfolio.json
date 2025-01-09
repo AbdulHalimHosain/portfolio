@@ -41,7 +41,7 @@
       "description": "Built a website where employers can post jobs, and job seekers can apply. Also, added secure login and role-based access. The technology I have used here are Laravel, Blade, TailwindCSS",
       "imageSrc": "",
       "url": "https://github.com/AbdulHalimHosain/JobVista-Laravel",
-      "technologies": ["PHP", "Laravel", "Blade", "Bootstrap"]
+      "technologies": ["PHP,", "Laravel,", "Blade,", "Bootstrap"]
     },
     {
       "id": "2",
@@ -49,7 +49,7 @@
       "description": "Created a platform for doctors to manage appointments. Patients can book appointments in real time.",
       "imageSrc": "",
       "url": "",
-      "technologies": ["Next.js", "Tailwind", "Nest.js"]
+      "technologies": ["Next.js,", "Tailwind,", "Nest.js"]
     },
     {
       "id": "3",
@@ -57,7 +57,7 @@
       "description": "Made an inventory system to track suppliers, stock levels, and generate sales reports.",
       "imageSrc": "",
       "url": "https://github.com/AbdulHalimHosain/Stock-Optima",
-      "technologies": ["Laravel", "Bootstrap", "MySQL"]
+      "technologies": ["Laravel,", "Bootstrap,", "MySQL"]
     },
     {
       "id": "4",
@@ -65,7 +65,7 @@
       "description": "Developed an app where users can play drum sounds using the keyboard or mouse.",
       "imageSrc": "",
       "url": "https://github.com/AbdulHalimHosain/Drum-Kit",
-      "technologies": ["HTML", "CSS", "JavaScript"]
+      "technologies": ["HTML,", "CSS,", "JavaScript"]
     },
     {
       "id": "5",
@@ -73,7 +73,7 @@
       "description": "Created a memory game where players follow a pattern of colors and sounds.",
       "imageSrc": "",
       "url": "https://github.com/AbdulHalimHosain/Simon-Game",
-      "technologies": ["HTML", "CSS", "JavaScript"]
+      "technologies": ["HTML,", "CSS,", "JavaScript"]
     },
     {
       "id": "6",
@@ -81,7 +81,7 @@
       "description": "Built a fun dicee game for two players to roll dice and see who wins.",
       "imageSrc": "",
       "url": "https://github.com/AbdulHalimHosain/Dicee-game",
-      "technologies": ["HTML", "CSS", "JavaScript"]
+      "technologies": ["HTML,", "CSS,", "JavaScript"]
     },
     {
       "id": "7",
@@ -89,7 +89,7 @@
       "description": "Designed an app to write, save, and manage notes using a simple interface and database.",
       "imageSrc": "",
       "url": "",
-      "technologies": ["ReactJS", "MySQL"]
+      "technologies": ["ReactJS,", "MySQL"]
     }
 ],
   "services": [
