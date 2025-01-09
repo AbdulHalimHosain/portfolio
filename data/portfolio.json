@@ -78,7 +78,7 @@
     {
       "id": "6",
       "title": "Dicee Game",
-      "description": "Built a fun dice game for two players to roll dice and see who wins.",
+      "description": "Built a fun dicee game for two players to roll dice and see who wins.",
       "imageSrc": "",
       "url": "https://github.com/AbdulHalimHosain/Dicee-game",
       "technologies": ["HTML", "CSS", "JavaScript"]
