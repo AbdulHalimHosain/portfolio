@@ -1,0 +1,306 @@
+{
+  "name": "Abdul Halim Hosain",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Abdul Halim Hosain,",
+  "headerTaglineThree": "passionate web developer",
+  "headerTaglineFour": "from Dhaka, Bangladesh.",
+  "showCursor": true,
+  "showBlog": true,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "icons": "github-removebg-preview",
+      "link": "https://github.com/AbdulHalimHosain"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "icons": "linkedin-removebg-preview",
+      "link": "https://www.linkedin.com/in/abdul-halim-hosain"
+    },
+    {
+      "id": "3",
+      "title": "Twitter",
+      "icons": "twitter-removebg-preview",
+      "link": "https://x.com/AbdulProgga"
+    },
+    {
+      "id": "4",
+      "title": "Email",
+      "icons": "email-removebg-preview",
+      "link": "mailto:abdulhhosainprogga@gmail.com"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Job Portal",
+      "description": "Built a website where employers can post jobs, and job seekers can apply. Also, added secure login and role-based access. The technology I have used here are Laravel, Blade, TailwindCSS",
+      "imageSrc": "",
+      "url": "https://github.com/AbdulHalimHosain/JobVista-Laravel",
+      "technologies": ["PHP", "Laravel", "Blade", "Bootstrap"]
+    },
+    {
+      "id": "2",
+      "title": "Doctor’s Chamber",
+      "description": "Created a platform for doctors to manage appointments. Patients can book appointments in real time.",
+      "imageSrc": "",
+      "url": "",
+      "technologies": ["Next.js", "Tailwind", "Nest.js"]
+    },
+    {
+      "id": "3",
+      "title": "Stock Optima",
+      "description": "Made an inventory system to track suppliers, stock levels, and generate sales reports.",
+      "imageSrc": "",
+      "url": "https://github.com/AbdulHalimHosain/Stock-Optima",
+      "technologies": ["Laravel", "Bootstrap", "MySQL"]
+    },
+    {
+      "id": "4",
+      "title": "Drum Kit",
+      "description": "Developed an app where users can play drum sounds using the keyboard or mouse.",
+      "imageSrc": "",
+      "url": "https://github.com/AbdulHalimHosain/Drum-Kit",
+      "technologies": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "id": "5",
+      "title": "Simon Game",
+      "description": "Created a memory game where players follow a pattern of colors and sounds.",
+      "imageSrc": "",
+      "url": "https://github.com/AbdulHalimHosain/Simon-Game",
+      "technologies": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "id": "6",
+      "title": "Dicee Game",
+      "description": "Built a fun dice game for two players to roll dice and see who wins.",
+      "imageSrc": "",
+      "url": "https://github.com/AbdulHalimHosain/Dicee-game",
+      "technologies": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "id": "7",
+      "title": "NoteKeeper",
+      "description": "Designed an app to write, save, and manage notes using a simple interface and database.",
+      "imageSrc": "",
+      "url": "",
+      "technologies": ["ReactJS", "MySQL"]
+    }
+],
+  "services": [
+    {
+      "title": "Web Development",
+      "description": "I build websites that work well on all devices. I use modern tools and technology."
+    },
+    {
+      "title": "Frontend Development",
+      "description": "I create websites that are easy to use. I focus on making them look good and work smoothly."
+    },
+    {
+      "title": "Backend Development",
+      "description": "I build strong backend systems. These systems can handle many users and grow easily."
+    },
+    {
+      "title": "Database Management",
+      "description": "I design and improve database systems. This helps them work faster and handle more data."
+    }
+],
+  "skills": {
+    "Languages": [
+      {
+        "name": "Python",
+        "icon": "python-removebg-preview"
+      },
+      {
+        "name": "HTML",
+        "icon": "html-removebg-preview"
+      },
+      {
+        "name": "CSS",
+        "icon": "css-removebg-preview"
+      },
+      {
+        "name": "PHP",
+        "icon": "php-removebg-preview"
+      },
+      {
+        "name": "JavaScript",
+        "icon": "javascript-removebg-preview"
+      },
+      {
+        "name": "SQL",
+        "icon": "sql-removebg-preview"
+      }
+    ],
+    "Tools & Technologies": [
+      {
+        "name": "React",
+        "icon": "react-removebg-preview"
+      },
+      {
+        "name": "NextJS",
+        "icon": "nextjs-removebg-preview"
+      },
+      {
+        "name": "Laravel",
+        "icon": "laravel-removebg-preview"
+      },
+      {
+        "name": "ExpressJS",
+        "icon": "expressjs-removebg-preview"
+      },
+      {
+        "name": "NodeJS",
+        "icon": "nodejs-removebg-preview"
+      },
+      {
+        "name": "NestJS",
+        "icon": "nestjs-removebg-preview"
+      },
+      {
+        "name": "TailwindCSS",
+        "icon": "tailwindcss-removebg-preview"
+      },
+      {
+        "name": "Bootstrap",
+        "icon": "bootstrap-removebg-preview"
+      },
+      {
+        "name": "Git",
+        "icon": "git-removebg-preview"
+      }
+    ]
+  },
+  "aboutpara": "My name is Abdul Halim Hosain. I graduated from BRAC University with a degree in Computer Science and Engineering. I earned a CGPA of 3.77 out of 4.00. I have always loved technology and this led me to develop a strong interest in web development. Because of this interest, I became skilled in languages and tools like PHP, Laravel, React, JavaScript, Next.js, NestJS, MySQL, and Git.\nI worked on many projects such as job portals, doctor appointment systems, and inventory systems. I also did an internship as a Software Engineer where I learned to build strong web applications and make them faster. I am skilled at both front-end and back-end development.\n\nI am a quick learner and enjoy solving problems. I love challenges and always try to improve myself. I have received merit-based scholarships for my academic achievements and have been on the VC’s List and Dean’s List several times. I want to keep growing in the web development field and learn new things. I am very passionate about this sector.",
+  "resume": {
+    "tagline": "👋 I'm a software engineer",
+    "description": "I have wroked on many projects using Javascript, React, NextJS, NestJS, ExpressJS, NodeJS, Php, Laravel, Mysql, and most of the Web stack.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "October 2024 - Present",
+        "type": "Full Time",
+        "position": "Junior Software Engineer at CyberNetikz",
+        "bullets": [
+          "Work as a junior software developer focusing on both front-end and back-end development.",
+          "Collaborate with the team on multiple projects, contributing to design and implementation."
+        ]
+      },
+      {
+        "id": "2",
+        "dates": "July 2024 - October 2024",
+        "type": "Full Time",
+        "position": "Software Engineer Intern at CyberNetikz",
+        "bullets": [
+          "Learned to build scalable web applications using JavaScript, Node.js, Express.js, React, Next.js, and PHP (Laravel).",
+          "Completed two major internship projects."
+        ]
+      },
+      {
+        "id": "3",
+        "dates": "September 2022 - December 2023",
+        "type": "Part Time",
+        "position": "Student Tutor/Teaching Assistant at BRAC University",
+        "bullets": [
+          "Supported Computer Science students in improving their programming skills through tutoring sessions.",
+          "Assisted faculty members by grading assignments and providing feedback."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "id": "1",
+        "universityName": "Brac University",
+        "universityDate": "2020-2024",
+        "universityPara": "B.Sc in Computer Science and Engineering (CGPA: 3.77/4.00)"
+      },
+      {
+        "id": "2",
+        "collegeName": "Government Ananda Mohan College, Mymensingh",
+        "collegeDate": "2017-2019",
+        "collegePara": "Higher Secondary School Certificate (GPA: 4.75/5.00)"
+      }
+    ],
+    "languages": ["Javascript", "HTML5", "CSS", "Python", "PHP"],
+    "frameworks": ["React", "NextJS", "ExpressJS", "Laravel", "NestJS", "TailwindCSS", "Bootstrap", "Git", "Typescript", "NodeJs"],
+    "others": ["Figma", "MySQL", "Postman", "Postgre", "AdobePhotoshop", "MicrosoftOffice"],
+    "Research": [
+      {
+        "id": "1",
+        "title": " Efficacy of Natural Language Generation for Writing Styles",
+        "description": " Developed a fine-tuned model for personality-specific text generation."
+      },
+      {
+        "id": "2",
+        "title": "Text-Based Q&A Automation",
+        "description": "Designed question generation models using BengaliBERT and BengaliT5 for enhanced student learning experience."
+      }
+    ],
+    "Awards": [
+      {
+        "id": "1",
+        "title": "Merit Scholarship",
+        "description": "Received merit-based scholarship for academic performance."
+      },
+      {
+        "id": "2",
+        "title": "Dean's List",
+        "description": "Achieved this honor for two consecutive years based on academic excellence."
+      },
+      {
+        "id": "3",
+        "title": "VC's List",
+        "description": "Earned a spot on the VC's list for achieving outstanding academic results."
+      }
+    ],
+    "projects": [
+    {
+      "id": "1",
+      "title": "Job Portal",
+      "technologies": ["PHP", "Laravel", "Blade", "Bootstrap"],
+      "description": "Built a website where employers can post jobs, and job seekers can apply. Added secure login and role-based access."
+    },
+    {
+      "id": "2",
+      "title": "Doctor’s Chamber",
+      "technologies": ["Next.js", "Tailwind", "Nest.js"],
+      "description": "Created a platform for doctors to manage appointments. Patients can book appointments in real time."
+    },
+    {
+      "id": "3",
+      "title": "Stock Optima",
+      "technologies": ["Laravel", "Bootstrap", "MySQL"],
+      "description": "Made an inventory system to track suppliers, stock levels, and generate sales reports."
+    },
+    {
+      "id": "4",
+      "title": "Drum Kit",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "description": "Developed an app where users can play drum sounds using the keyboard or mouse."
+    },
+    {
+      "id": "5",
+      "title": "Simon Game",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "description": "Created a memory game where players follow a pattern of colors and sounds."
+    },
+    {
+      "id": "6",
+      "title": "Dicee Game",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "description": "Built a fun dice game for two players to roll dice and see who wins."
+    },
+    {
+      "id": "7",
+      "title": "NoteKeeper",
+      "technologies": ["ReactJS", "MySQL"],
+      "description": "Designed an app to write, save, and manage notes using a simple interface and database."
+    }
+  ]
+  }
+}
